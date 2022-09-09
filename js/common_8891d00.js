@@ -1,0 +1,1 @@
+"use strict";$(function(){nie.define("sharetest",function(){{var e=$("#share_title").html(),t=$("#share_desc").html(),i=$("#share_img").attr("data-src"),r=nie.require("nie.util.shareV5");r({fat:"#NIE-share",type:6,defShow:[23,22,2,1,24],title:e,img:i,content:t})}})});
